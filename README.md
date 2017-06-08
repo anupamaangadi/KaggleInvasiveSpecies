@@ -9,10 +9,10 @@ Then we just pop on a couple of FC Dense layers and train with the precomputed o
 
 
 TODO:
-Data Augmentation
-Psuedo Labeling
-Take advantage of data leakage from different sized photos
-Add bounding boxes for ensemble models
+* Data Augmentation
+* Psuedo Labeling
+* Take advantage of data leakage from different sized photos
+* Add bounding boxes for ensemble models
 
 
 I also want to test out adaptive stepwise learning rates beyond just simply using Adam
